@@ -19,6 +19,7 @@ This is the first design. The body is 3 pieces, which is design to be joined tog
 unfortunately, I did not test the design, as after assembling it I realized one problem. The bearing had too much play and the knife would swing back and forth about 5mm about the Z-axis. This design is a no go.
 
 ## Version 2.0
+![cnc drag knife](Images/dk5.png)
 
 ![cnc drag knife](Images/dk(1).jpg)
 
