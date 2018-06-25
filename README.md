@@ -14,6 +14,10 @@ There are many proffessional drag knifes available, most common of which would b
 
 ![cnc drag knife](Images/v1.png)
 
+![cnc drag knife](Images/v2.jpeg)
+
+![cnc drag knife](Images/v3.jpeg)
+
 This is the first design. The body is 3 pieces, which is design to be joined together by screws to provide easy access to change the blades. It is designed to carry a number 11 surgical scalpel balde. A bearing is provided to help the blade swievel and it fit into a 1/2inch collet. I went with a very large blade offset of 10mm. My spindle was large and it has a lot of momentum while turning.
 
 unfortunately, I did not test the design, as after assembling it I realized one problem. The bearing had too much play and the knife would swing back and forth about 5mm about the Z-axis. This design is a no go.
