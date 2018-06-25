@@ -43,3 +43,6 @@ This knife cuts beauitifully. Its able to take sharp cuts and turns tangent to t
 ![cnc drag knife](Images/dr1.png)
 
 A device similar to a drag knife, but instead of cutting the roller depresses the material forming a crease line. This line can be used to bend the material. For examlple when making a carboard box, the roller can be used to depress the edges that need to be folded and then using the knife cut out the outer edges.
+
+![cnc drag knife](Images/dr2.jpeg)
+
