@@ -20,18 +20,18 @@ unfortunately, I did not test the design, as after assembling it I realized one 
 
 ## Version 2.0
 
-![cnc drag knife](Images/dk (1).jpg)
+![cnc drag knife](Images/dk(1).jpg)
 
-![cnc drag knife](Images/dk (2).jpg)
+![cnc drag knife](Images/dk(2).jpg)
 
 A simpler design without a bearing on it. The knife is two parts, the main body and the knife holder, which come together with screws.
 THis design alows simpler fabrication and testing and avoids unessasry components. The only question being, does the blade have enough torque to turn the spindle? It turns out it does. 
 
-![cnc drag knife](Images/dk (3).jpg)
+![cnc drag knife](Images/dk(3).jpg)
 
 This knife cuts beauitifully. Its able to take sharp cuts and turns tangent to the cutline.
 
-![cnc drag knife](Images/dk (4).jpg)
+![cnc drag knife](Images/dk(4).jpg)
 
 
 ## Drag Roller
